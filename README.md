@@ -1,14 +1,40 @@
-# netflix-clone
+# Netflix Clone 🎬
 
-This is a Netflix clone project built with React and Vite.
+A responsive **Netflix clone** built with React, Vite, and Firebase Authentication, powered by the TMDb API for real‑time movie data.  
+Deployed on **Vercel**.
 
-## Setup
+## Live Demo
+👉 [netflix-clone-eosin-zeta-66.vercel.app](https://netflix-clone-eosin-zeta-66.vercel.app)
 
-- Run \`npm install\` to install dependencies.
-- Run \`npm run dev\` to start the development server.
+---
 
-## Deployment
+## Features
+- 🔐 **Firebase Authentication** (Sign up, Login, Logout)
+- 🎞️ **TMDb API Integration** for dynamic movie listings
+- 📱 **Responsive UI** (mobile, tablet, and desktop friendly)
+- 🎥 **Player Page** to stream selected content
+- 🌓 **Modern design** inspired by Netflix
 
-You can deploy this project using platforms like Vercel or Netlify.
+---
 
-Make sure to set your Firebase environment variables in the deployment platform.
+## Tech Stack
+- **Frontend:** React, Vite, CSS3
+- **Backend:** Firebase Authentication
+- **API:** TMDb (The Movie Database)
+- **Deployment:** Vercel
+
+---
+
+## Screenshots
+
+### Home Page
+![Home](./screenshots/home.png)
+
+### Login Page
+![Login](./screenshots/login.png)
+
+### Player Page
+![Player](./screenshots/player.png)
+
+---
+
