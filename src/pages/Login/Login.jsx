@@ -56,6 +56,11 @@ const Login = () => {
 
         </div>
       </div>
+      <p style={{ textAlign: 'center', color: 'red', fontSize: '14px', marginBottom: '10px' }}>
+        This is a demo project for educational purposes only. 
+        No real Netflix accounts or data are used.
+      </p>
+
     </div>
   )
 }
