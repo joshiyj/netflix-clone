@@ -27,11 +27,13 @@ Deployed on **Vercel**.
 
 ## Screenshots
 
-### Home Page
-![Home](./screenshots/home.png)
-
 ### Login Page
 ![Login](./screenshots/login.png)
+
+### Home Page
+![Home](./screenshots/home1.png)
+
+![Home](./screenshots/home2.png)
 
 ### Player Page
 ![Player](./screenshots/player.png)
