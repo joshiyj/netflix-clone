@@ -6,6 +6,9 @@ Deployed on **Vercel**.
 ## Live Demo
 👉 [netflix-clone-eosin-zeta-66.vercel.app](https://netflix-clone-eosin-zeta-66.vercel.app)
 
+### You can create a new ID, Or use this Demo ID:
+### ID: abc@gmail.com
+### Pass: abc123
 ---
 
 ## Features
